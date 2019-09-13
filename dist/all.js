@@ -1,0 +1,1 @@
+"use strict";var y=100,m="Hey Sam",data="".concat(m," do you have a ").concat(y," dollar bill?");console.log("hello world"),console.log(data);
